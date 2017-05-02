@@ -1,0 +1,202 @@
+[
+   {
+      "specialistID": "1",
+      "specialistName": "John Franklin",
+      "specialty": "Orthopedic",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Tuesday, June 13, 2017 8:06:16 PM",
+      "endDateTime": "Friday, June 23, 2017 9:06:16 AM",
+      "MobileNumber": "385-235-4258"
+   },
+   {
+      "specialistID": "2",
+      "specialistName": "Sam Smith",
+      "specialty": "Allergy",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Tuesday, July 04, 2017 9:06:16 AM",
+      "endDateTime": "Saturday, June 24, 2017 10:06:16 AM",
+      "MobileNumber": "614-386-6857"
+   },
+   {
+      "specialistID": "3",
+      "specialistName": "Allen Maese",
+      "specialty": "Dermatology",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Monday, July 24, 2017 8:06:16 PM",
+      "endDateTime": "Wednesday, August 02, 2017 8:06:16 AM",
+      "MobileNumber": "323-661-8188"
+   },
+   {
+      "specialistID": "4",
+      "specialistName": "Kristi Dolly",
+      "specialty": "Allergy",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Friday, August 04, 2017 9:06:16 PM",
+      "endDateTime": "Monday, August 07, 2017 01:06:16 AM",
+      "MobileNumber": "636-586-4033"
+   },
+   {
+      "specialistID": "5",
+      "specialistName": "Alfredo Melius",
+      "specialty": "Family Medicine",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Sunday, June 04, 2017 8:06:16 PM",
+      "endDateTime": "Tuesday, July 04, 2017 9:06:16 AM",
+      "MobileNumber": "667-216-4366"
+   },
+   {
+      "specialistID": "6",
+      "specialistName": "Karan Joo",
+      "specialty": "Emergency Medicine",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Tuesday, July 04, 2017 9:06:16 AM",
+      "endDateTime": "Saturday, June 24, 2017 10:06:16 AM",
+      "MobileNumber": "614-386-6857"
+   },
+   {
+      "specialistID": "7",
+      "specialistName": "Allen Maese",
+      "specialty": "Dermatology",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Thursday, August 24, 2017 8:06:16 PM",
+      "endDateTime": "Tuesday, August 29, 2017 8:06:16 AM",
+      "MobileNumber": "503-226-1618"
+   },
+   {
+      "specialistID": "8",
+      "specialistName": "Tyrone Bohr",
+      "specialty": "Family Practice",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Wednesday, August 16, 2017 9:06:16 PM",
+      "endDateTime": "Tuesday, September 05, 2017 01:06:16 AM",
+      "MobileNumber": "225-754-4597"
+   },
+   {
+      "specialistID": "10",
+      "specialistName": "Garfield Dress",
+      "specialty": "Hand Surgery Orthopaedic Surgery",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Wednesday, September 06, 2017 8:06:16 PM",
+      "endDateTime": "Friday, June 23, 2017 9:06:16 AM",
+      "MobileNumber": "225-324-2855"
+   },
+   {
+      "specialistID": "11",
+      "specialistName": "Kayleen Minto",
+      "specialty": "Family Medicine",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Sunday, September 10, 2017 9:06:16 AM",
+      "endDateTime": "Thursday, September 14, 2017 10:06:16 AM",
+      "MobileNumber": "415-572-8839"
+   },
+   {
+      "specialistID": "12",
+      "specialistName": "Harland Brinker",
+      "specialty": "Geriatric Medicine Internal Medicine",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Friday, September 15, 2017 8:06:16 PM",
+      "endDateTime": "Monday, September 18, 2017 8:06:16 AM",
+      "MobileNumber": "636-525-7341"
+   },
+   {
+      "specialistID": "13",
+      "specialistName": "Tarah Ribeiro",
+      "specialty": "Medical Genetics",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Tuesday, September 19, 2017 9:06:16 PM",
+      "endDateTime": "Sunday, September 24, 2017 01:06:16 AM",
+      "MobileNumber": "302-798-2326"
+   },
+   {
+      "specialistID": "14",
+      "specialistName": "Cole Fenimore",
+      "specialty": "Neurological Surgery",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Monday, September 25, 2017 8:06:16 PM",
+      "endDateTime": "Tuesday, September 26, 2017 9:06:16 AM",
+      "MobileNumber": "669-444-8300"
+   },
+   {
+      "specialistID": "15",
+      "specialistName": "Genevieve Dejong",
+      "specialty": "Medical Toxicology Preventive Medicine",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Thursday, September 28, 2017 9:06:16 AM",
+      "endDateTime": "Wednesday, October 04, 2017 10:06:16 AM",
+      "MobileNumber": "847-655-4894"
+   },
+   {
+      "specialistID": "16",
+      "specialistName": "Reiko Nakata",
+      "specialty": "Endovascular Surgical Neuroradiology Neurology",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Thursday, November 16, 2017 8:06:16 PM",
+      "endDateTime": "Wednesday, November 22, 2017 8:06:16 AM",
+      "MobileNumber": "317-333-1223"
+   },
+   {
+      "specialistID": "17",
+      "specialistName": "Virgie Bradeen",
+      "specialty": "Child & Adolescent Psychiatry Psychiatry",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Friday, August 04, 2017 9:06:16 PM",
+      "endDateTime": "Monday, August 07, 2017 01:06:16 AM",
+      "MobileNumber": "475-201-2772"
+   },
+   {
+      "specialistID": "18",
+      "specialistName": "Lakita Mckown",
+      "specialty": "Anesthesiology",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Friday, December 01, 2017 8:06:16 PM",
+      "endDateTime": "Monday, December 04, 2017 9:06:16 AM",
+      "MobileNumber": "501-940-4427"
+   },
+   {
+      "specialistID": "19",
+      "specialistName": "Dolly Edmisten",
+      "specialty": "Child Abuse Pediatrics Pediatrics",
+      "specialtyType": "Paediatric",
+      "requestStatus": "Open",
+      "startDateTime": "Wednesday, December 20, 2017 9:06:16 AM",
+      "endDateTime": "Thursday, December 21, 2017 10:06:16 AM",
+      "MobileNumber": "323-661-8188"
+   },
+   {
+      "specialistID": "20",
+      "specialistName": "Rosie Gonzales",
+      "specialty": "Dermatology",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Sunday, December 24, 2017 8:06:16 PM",
+      "endDateTime": "Sunday, December 31, 2017 8:06:16 AM",
+      "MobileNumber": "323-661-8188"
+   },
+   {
+      "specialistID": "21",
+      "specialistName": "Kathrin Filson",
+      "specialty": "Orthopedic",
+      "specialtyType": "Adult",
+      "requestStatus": "Open",
+      "startDateTime": "Saturday, July 15, 2017 01:00:00 AM",
+      "endDateTime": "ednesday, July 19, 2017 11:00:00 AM",
+      "MobileNumber": "614-386-6857"
+   }
+]
